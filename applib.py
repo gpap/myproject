@@ -3,3 +3,6 @@ def hello():
 
 def greeting():
     print("Live long and prosper!")
+
+def goodnight():
+    print("Goodnight!")
